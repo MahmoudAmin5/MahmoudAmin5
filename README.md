@@ -30,5 +30,6 @@
 ![OS](https://img.shields.io/badge/-OS-05122A?style=flat&logo=sass)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.NET)&nbsp;
+![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=C)&nbsp;
 
 
