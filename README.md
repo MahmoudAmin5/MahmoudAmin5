@@ -29,7 +29,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![OS](https://img.shields.io/badge/-OS-05122A?style=flat&logo=sass)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
-![C#](https://img.shields.io/badge/-c#--05122A?style=flat&logo=C#)&nbsp;
+![C#](https://img.shields.io/badge/-(c#)--05122A?style=flat&logo=C#)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.NET)&nbsp;
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
