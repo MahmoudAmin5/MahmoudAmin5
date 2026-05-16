@@ -13,6 +13,4 @@
     <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,html,css,js,docker,git,stackoverflow"/>
   </p>
 
-  <p align="left"> <!-- Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahmoudAmin5&layout=compact&langs_count=5&theme=codeSTACKr"/>
-  </p>
+ 
