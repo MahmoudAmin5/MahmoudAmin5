@@ -1,6 +1,4 @@
-Here is your upgraded **GitHub Profile `README.md`** tailored directly from your CV. You can copy and paste this directly into your `MahmoudAmin5/MahmoudAmin5` repository's `README.md`:
 
-````markdown
 <h1 align="center">Hello World! 👋 I'm Mahmoud Amin</h1>
 
 <h3 align="center">Backend .NET Software Engineer · Distributed Systems & Microservices · ICPC Mentor</h3>
