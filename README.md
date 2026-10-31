@@ -4,7 +4,7 @@
 # Mahmoud Amin
 ### Backend .NET Engineer &nbsp;|&nbsp; Distributed Systems & Microservices
 
-**Giza, Egypt** &nbsp;&bull;&nbsp; **B.Sc. in Computer Science & AI — Fayoum University (GPA: 3.2 / 4.0)**
+**Giza, Egypt** &nbsp;&bull;&nbsp; **B.Sc. in Computer Science & AI — Fayoum University**
 
 <br/>
 
