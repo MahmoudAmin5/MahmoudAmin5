@@ -54,9 +54,6 @@ Backend Software Engineer specializing in architecting distributed, high-concurr
 - Built a real-time customer-support chat module on a **Pusher / WebSocket** architecture with per-conversation channels, presence tracking, and durable **SQL Server** persistence, significantly reducing median first-response time compared to HTTP polling.
 - Architected scalable backend services with **Clean Architecture** and **CQRS**; enforced transactional data consistency using **Repository** and **Unit of Work** patterns, and integrated **MediatR Pipeline Behaviors** for centralized request validation and automated error handling.
 
-### Competitive Programming Mentor — ICPC Fayoum Community *(Oct 2024 – Feb 2025)*
-- Mentored **25+ university students** in advanced data structures, graph algorithms, dynamic programming, and competitive problem-solving strategies for ICPC qualifications.
-
 ---
 
 ## Featured Systems & Projects
