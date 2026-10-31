@@ -72,7 +72,7 @@ Backend Software Engineer specializing in architecting distributed, high-concurr
 - Built high-performance endpoints using **Clean Architecture** on **ASP.NET Core**; reduced read latency with a **Redis** cache-aside layer and offloaded asynchronous ticket/voucher dispatch to **Hangfire** background workers.
 
 ### 3. [Flowery — E-Commerce Microservices Platform](https://github.com/elevate-flower-ecommerce-projects/Flower_ECommerce_Microservices-team3)
-`C#` &bull; `.NET` &bull; `6 Microservices` &bull; `Vertical Slice Architecture` &bull; `CQRS (MediatR)` &bull; `YARP API Gateway` &bull; `RabbitMQ (MassTransit)` &bull; `Paymob` &bull; `Serilog & Seq` &bull; `Docker Hub CI/CD`
+> **`.NET`** · **`6 Microservices`** · **`Vertical Slice Architecture`** · **`CQRS (MediatR)`** · **`YARP API Gateway`** · **`RabbitMQ (MassTransit)`** · **`Paymob`** · **`Serilog & Seq`** · **`Docker Hub CI/CD`**
 - Co-architected an e-commerce backend across **6 domain microservices** (*Identity, Catalog, Cart, Order & Fulfillment, Payment [Paymob], Address Coverage*) unified through a high-performance **YARP API Gateway** with centralized JWT Bearer authentication, CORS policies, and aggregated OpenAPI documentation.
 - Engineered asynchronous, event-driven workflows using **RabbitMQ (MassTransit)** for order processing, driver fulfillment dispatch, and payment notifications, decoupling inter-service communication and enforcing eventual consistency.
 - Implemented core domain services using **Vertical Slice Architecture** with **CQRS (MediatR)**, isolating checkout pipelines, driver assignments, and order state machines into self-contained slices backed by shared enterprise **BuildingBlocks**.
