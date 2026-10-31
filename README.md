@@ -81,9 +81,7 @@ Backend Software Engineer specializing in architecting distributed, high-concurr
 ---
 
 ## GitHub Activity
-
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MahmoudAmin5&show_icons=true&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MahmoudAmin5&show_icons=true&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAmin5&theme=transparent&hide_border=true&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" alt="GitHub Streak" />
 </div>
-````
