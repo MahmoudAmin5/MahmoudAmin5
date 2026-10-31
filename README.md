@@ -59,14 +59,14 @@ Backend Software Engineer specializing in architecting distributed, high-concurr
 ## Featured Systems & Projects
 
 ### 1. [Fitness App — Distributed Microservices Platform](https://github.com/Elevate-Fitness-Project-Teams/FitnessApp-team2)
-`C#` &bull; `.NET 9` &bull; `6 Microservices` &bull; `Ocelot API Gateway` &bull; `RabbitMQ (MassTransit)` &bull; `Transactional Outbox` &bull; `gRPC` &bull; `Redis` &bull; `RS256 JWT` &bull; `Docker Compose` &bull; `GitHub Actions`
+> **`.NET 9`** · **`6 Microservices`** · **`Ocelot API Gateway`** · **`RabbitMQ (MassTransit)`** · **`Transactional Outbox`** · **`gRPC`** · **`Redis`** · **`RS256 JWT`** · **`Docker Compose`** · **`GitHub Actions`**
 - Co-architected a distributed **.NET 9** backend across **6 domain microservices** orchestrated with **Docker Compose**; unified client ingress via an **Ocelot API Gateway** configured with rate-limiting, CORS, and **Polly** circuit-breaker resilience policies.
 - Engineered event-driven cross-service workflows using **RabbitMQ (MassTransit)** with the **Transactional Outbox** pattern to guarantee at-least-once message delivery, backed by **gRPC** for low-latency synchronous RPCs.
 - Implemented calculation and tracking engines following **CQRS + MediatR**; integrated a **Redis distributed cache-aside** layer with event-driven invalidation, cutting database round-trips and achieving **sub-10ms** query latencies.
 - Hardened platform security with asymmetric **JWT (RS256)** authentication and RBAC; automated testing and deployment via a **GitHub Actions CI/CD** pipeline executing **xUnit** test suites and building verified multi-service Docker images.
 
 ### 2. [Travio — AI Travel Booking & Planner Platform](https://github.com/MahmoudAmin5/Travio)
-`C#` &bull; `ASP.NET Core 9` &bull; `Clean Architecture` &bull; `SQL Server` &bull; `Stripe` &bull; `Duffel API` &bull; `Hotelbeds APITUDE` &bull; `SignalR` &bull; `Hangfire` &bull; `Redis` &bull; `xUnit`
+> **`ASP.NET Core 9`** · **`Clean Architecture`** · **`SQL Server`** · **`Stripe`** · **`Duffel API`** · **`Hotelbeds APITUDE`** · **`SignalR`** · **`Hangfire`** · **`Redis`** · **`xUnit`**
 - Delivered core backend architecture integrating third-party providers (**Stripe Payments**, **Duffel Flights**, **Hotelbeds APITUDE**, **Google Maps**) and a **SignalR** real-time messaging layer for the conversational AI travel assistant; authored **OpenAPI** specifications to unblock parallel mobile development.
 - Eliminated double-charge race conditions during concurrent payment requests by combining **Stripe deterministic idempotency keys**, **Optimistic Concurrency (`RowVersion`)**, and **atomic set-based webhook locking**; inspected **SQL Execution Plans** to eliminate table/index scans and reduce lock contention on high-concurrency booking tables.
 - Built high-performance endpoints using **Clean Architecture** on **ASP.NET Core**; reduced read latency with a **Redis** cache-aside layer and offloaded asynchronous ticket/voucher dispatch to **Hangfire** background workers.
