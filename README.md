@@ -59,7 +59,7 @@ Backend Software Engineer specializing in architecting distributed, high-concurr
 ## Featured Systems & Projects
 
 ### 1. [Fitness App — Distributed Microservices Platform](https://github.com/Elevate-Fitness-Project-Teams/FitnessApp-team2)
-> **`.NET 9`** · **`6 Microservices`** · **`Ocelot API Gateway`** · **`RabbitMQ (MassTransit)`** · **`Transactional Outbox`** · **`gRPC`** · **`Redis`** · **`RS256 JWT`** · **`Docker Compose`** · **`GitHub Actions`**
+> **`.NET 9`** · **`7 Microservices`** · **`Ocelot API Gateway`** · **`RabbitMQ (MassTransit)`** · **`Transactional Outbox`** · **`gRPC`** · **`Redis`** · **`RS256 JWT`** · **`Docker Compose`** · **`GitHub Actions`**
 - Co-architected a distributed **.NET 9** backend across **6 domain microservices** orchestrated with **Docker Compose**; unified client ingress via an **Ocelot API Gateway** configured with rate-limiting, CORS, and **Polly** circuit-breaker resilience policies.
 - Engineered event-driven cross-service workflows using **RabbitMQ (MassTransit)** with the **Transactional Outbox** pattern to guarantee at-least-once message delivery, backed by **gRPC** for low-latency synchronous RPCs.
 - Implemented calculation and tracking engines following **CQRS + MediatR**; integrated a **Redis distributed cache-aside** layer with event-driven invalidation, cutting database round-trips and achieving **sub-10ms** query latencies.
